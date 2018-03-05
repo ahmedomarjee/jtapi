@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>javax.telephony</groupId>
-    <artifactId>telephony</artifactId>
+    <artifactId>jtapi</artifactId>
     <packaging>jar</packaging>
     <version>1.4</version>
 
